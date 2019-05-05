@@ -70,3 +70,5 @@ _**To become a co-signer, please visit [this link](https://forms.gle/wStEbEetpCH
 ### Marc Sidorenko
 ### Basile Kotschoubey
 ### Serge Armbruster
+### Olga Pointurier
+### Yves Pointurier
